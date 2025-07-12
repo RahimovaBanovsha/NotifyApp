@@ -53,9 +53,13 @@ Diqqət: App Password sadəcə bu tətbiq üçün nəzərdə tutulub. Şəxsi pa
 
 Əgər proqramın icrası zamanı hər hansı gözlənilməyən vəziyyət ilə qarşılaşsanız — məsələn:
 -Unhandled exception,
+
 -Runtime error,
+
 -Məntiqi uyğunsuzluq,
+
 -Gözlənilməyən funksional davranış,
+
 -Email göndərilməsi ilə bağlı bir problem baş verərsə,
 zəhmət olmasa problemi detallı şəkildə mənə bildirin.
 
