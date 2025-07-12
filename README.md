@@ -5,7 +5,9 @@ NotifyApp console üzərində qurulmuş sadə bir bildiriş və post idarəetmə
 Proqramı run edib yoxlamaq istəyənlər aşağıdakı məlumatlardan istifadə edə bilər.
 
 İstifadə üçün hazır test accountlar:
+
 Admin account:
+
 Username: admin
 Email: rahimovabanovsha@gmail.com
 Password: admin123
@@ -65,8 +67,11 @@ zəhmət olmasa problemi detallı şəkildə mənə bildirin.
 
 Müraciətinizə aşağıdakı texniki məlumatları əlavə etməyiniz xahiş olunur:
 -Error description – problemin baş verdiyi vəziyyətin qısa və dəqiq izahı
+
 -Console output və ya stack trace (əgər mövcuddursa)
+
 -Screenshot – (vizual problem yaranarsa)
+
 -Reproduction steps – xəta ilə nəticələnən addımların ardıcıllığı (məsələn: User login → View post → Error)
 
 Problemi bildirmək üçün aşağıdakı yollardan istifadə edə bilərsiniz:
