@@ -66,6 +66,7 @@ Diqqət: App Password sadəcə bu tətbiq üçün nəzərdə tutulub. Şəxsi pa
 zəhmət olmasa problemi detallı şəkildə mənə bildirin.
 
 Müraciətinizə aşağıdakı texniki məlumatları əlavə etməyiniz xahiş olunur:
+
 -Error description – problemin baş verdiyi vəziyyətin qısa və dəqiq izahı
 
 -Console output və ya stack trace (əgər mövcuddursa)
