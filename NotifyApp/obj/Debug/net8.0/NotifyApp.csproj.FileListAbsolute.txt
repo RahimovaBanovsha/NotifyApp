@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.AssemblyInfo.cs
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.sourcelink.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\bin\Debug\net8.0\NotifyApp.exe
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\bin\Debug\net8.0\NotifyApp.deps.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\bin\Debug\net8.0\NotifyApp.runtimeconfig.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\bin\Debug\net8.0\NotifyApp.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\bin\Debug\net8.0\NotifyApp.pdb
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\refint\NotifyApp.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.pdb
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\NotifyApp.genruntimeconfig.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\NotifyApp\NotifyApp\obj\Debug\net8.0\ref\NotifyApp.dll
