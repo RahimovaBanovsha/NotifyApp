@@ -9,15 +9,19 @@ Proqramı run edib yoxlamaq istəyənlər aşağıdakı məlumatlardan istifadə
 Admin account:
 
 Username: admin
+
 Email: rahimovabanovsha@gmail.com
+
 Password: admin123
 
 User accounts:
 
 Email: rahimovabanovsha@gmail.com
+
 Password: banovsha123
 
 Email: kamalm@gmail.com
+
 Password: kamal123
 
 Bu accountlar FakeDataService.Seed() methodu vasitəsilə avtomatik yaradılır.
@@ -49,7 +53,7 @@ Addım-addım App Password əldə etmək:
 csharp
 NotificationService.ConfigureEmailSender(new SmtpEmailSender(
      "your_email@gmail.com",
--->> "your_app_password_here" <<--
+     -->> "your_app_password_here" <<--
 ));
 
 Diqqət: App Password sadəcə bu tətbiq üçün nəzərdə tutulub. Şəxsi parolunuzu heç yerdə yazmayın, yalnız yoxlama məqsədi ilə istifadə edin və heç yerdə paylaşmayın.
@@ -70,6 +74,7 @@ Diqqət: App Password sadəcə bu tətbiq üçün nəzərdə tutulub. Şəxsi pa
 zəhmət olmasa problemi detallı şəkildə mənə bildirin.
 
 
+
 Müraciətinizə aşağıdakı texniki məlumatları əlavə etməyiniz xahiş olunur:
 
 -Error description – problemin baş verdiyi vəziyyətin qısa və dəqiq izahı
@@ -79,6 +84,7 @@ Müraciətinizə aşağıdakı texniki məlumatları əlavə etməyiniz xahiş o
 -Screenshot – (vizual problem yaranarsa)
 
 -Reproduction steps – xəta ilə nəticələnən addımların ardıcıllığı (məsələn: User login → View post → Error)
+
 
 Problemi bildirmək üçün aşağıdakı yollardan istifadə edə bilərsiniz:
 1. GitHub Repository-də Issue bölməsində müraciət yarada bilərsiniz.
