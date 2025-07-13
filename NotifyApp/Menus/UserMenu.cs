@@ -79,7 +79,7 @@ public class UserMenu
             post.ViewHistory.Add(_user.Email);
         post.AddView();
 
-        NotificationService.SendNotification(_user, $"User viewed post with ID: {post.Id.ToString().Substring(0, 6)}");
+        NotificationService.SendNotification(_user, $"{_user.Name} {_user.Surname} viewed post with ID: {post.Id.ToString().Substring(0, 6)}");
 
         Console.WriteLine("\n--- Post Details ---");
         Console.WriteLine($"Content: {post.Content}");
@@ -106,7 +106,7 @@ public class UserMenu
             post.LikeHistory.Add(_user.Email);
         post.AddLike();  
 
-        NotificationService.SendNotification(_user, $"User liked post with ID: {post.Id.ToString().Substring(0, 6)}");
+        NotificationService.SendNotification(_user, $"{_user.Name} {_user.Surname} liked post with ID: {post.Id.ToString().Substring(0, 6)}");
         Console.WriteLine("Post liked successfully.");
 
     }
